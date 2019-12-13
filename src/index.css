@@ -16,3 +16,13 @@ code {
   padding-top: 10px;
   padding-left: 30px;
 }
+
+.tab {
+  margin-top: 20px;
+  margin-left: 50px;
+  padding: 15px;
+  width: 175px;
+  border: #f0932b solid;
+  border-radius: 8%;
+  background-color: #ffbe76;
+}
