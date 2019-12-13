@@ -1,6 +1,7 @@
 import React from 'react';
 import DashboardNavbar from './components/DashboardNavbar';
 import Tab from './components/Tab'
+
 function App() {
   return (
     <div className="App">
